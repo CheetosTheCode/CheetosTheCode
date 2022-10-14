@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="<iframe src="https://giphy.com/embed/xTiTnLxAA1LTBMKMkU" width="480" height="167" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mr-robot-mrrobot-xTiTnLxAA1LTBMKMkU">via GIPHY</a></p>" alt="Project logo"></a>
-</p>
+<img src="https://media0.giphy.com/media/xTiTnLxAA1LTBMKMkU/giphy.gif?cid=ecf05e47j9tqv9q0r5fwfckbblp24asnclxydhip8c9q32mm&rid=giphy.gif&ct=g" alt="funny GIF" width="50%">
 
-<h3 align="center">Welcome Human</h3>
+<h3 align="left">Languages and OS:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://cdn-icons-png.flaticon.com/512/160/160139.png)"  width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="unreal" width="40" height="40"/> </a> </p>
+
+<img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e473orvlnfs4s2peuozx0xr8vh4evxtcotvlp96wmmr&rid=giphy.gif&ct=g" alt="funny GIF" width="50%">
